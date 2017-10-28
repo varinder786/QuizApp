@@ -1,0 +1,42 @@
+body {
+    background-color: #eeeeee;
+}
+
+.grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 10px 50px 50px 50px;
+}
+
+.grid h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #d9534f;
+    padding: 2px 0px;
+}
+
+#score {
+    color: #5A6772;
+    text-align: center;
+    font-size: 30px;
+}
+
+.grid #question {
+    font-size: 30px;
+    color: #5cb85c;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+    background-color: #d9534f;
+    width: 200px;
+    font-size: 20px;
+    color: #fff;
+    margin: 10px 40px 10px 0px;
+    padding: 10px 10px;
+}
+
